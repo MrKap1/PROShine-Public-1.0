@@ -1,4 +1,4 @@
-# PROShine Free Public Release
+# PROShine Public Free 1.0
 
 This folder contains the compiled Windows release of PROShine. Source code,
 saved accounts, passwords, device identifiers, logs, crash reports, navigation
@@ -11,6 +11,9 @@ history, debug symbols, and developer files are intentionally excluded.
 
 Run `PROShine.exe` to start the application. Account and settings files are
 created locally on first use and should never be committed or shared.
+
+- Discord: https://discord.gg/btMReKrNs3
+- Source: https://github.com/MrKap1/PROShine-Public-1.0
 
 ## Security and authenticity
 
